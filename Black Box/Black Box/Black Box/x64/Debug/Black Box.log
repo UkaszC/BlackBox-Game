@@ -1,0 +1,3 @@
+﻿  Black Box.cpp
+C:\Users\Lukas\Desktop\Projekty na studia\Black Box\Black Box\Black Box\Black Box.cpp(410,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Black Box.vcxproj -> C:\Users\Lukas\Desktop\Projekty na studia\Black Box\Black Box\x64\Debug\Black Box.exe
